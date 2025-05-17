@@ -2,7 +2,7 @@
   "activities": [
     {
       "id": "1",
-      "title": "playas xd",
+      "title": "Living Coast",
       "description": "Join us for a community-led beach cleanup aimed at preserving our coastal environment. Together, we'll collect litter, remove plastic waste, and learn about the impact of pollution on marine life. It's a great way to contribute to a cleaner ocean and connect with others who care about the planet.",
       "instructions": [
         "Bring gloves and trash bags",
@@ -330,27 +330,6 @@
       "inscriptionsCount": 35,
       "inscriptionsOpen": false
     },
-    {
-      "id": "12",
-      "title": "a",
-      "dashboardPicture": "https://i.imgur.com/i6fqsMN.jpg",
-      "pictures": [
-        "https://i.imgur.com/i6fqsMN.jpg"
-      ],
-      "date": "2025-05-17",
-      "startTime": "00:37",
-      "endTime": "00:35",
-      "address": "a",
-      "description": "a",
-      "instructions": [
-        "a"
-      ],
-      "purpose": [
-        "a"
-      ],
-      "inscriptionCount": 0,
-      "isInscriptionOpen": true
-    }
   ],
   "volunteers": [
     {
